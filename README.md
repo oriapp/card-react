@@ -4,5 +4,6 @@ To see more information and how to run this program see <a href="https://reactjs
 
 
 <ul>
-<li>Please to not copy or edit OR SALE</li>
+<li>Please to not copy or edit OR RESALE</li>
+<li>All the copyrights are reserved and you will have to get permissions to use this and self-run</li>
 </ul>
