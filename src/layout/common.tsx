@@ -1,11 +1,8 @@
-import React from 'react'
+import Input from "../components/common/input";
+import Form from "../components/common/form";
 
-function common() {
-    return (
-        <div>
-            
-        </div>
-    )
+export {
+    Input,
+    Form,
+
 }
-
-export default common
