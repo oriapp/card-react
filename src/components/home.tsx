@@ -9,7 +9,7 @@ export class home extends Component {
             {pageHeader({title: "react.ts | Home Screen"})}
             <div className="row">
               <div className="col-12">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, facere!</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, facere!!</p>
               </div>
             </div>
           </div>
